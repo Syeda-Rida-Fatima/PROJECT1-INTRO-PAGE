@@ -1,0 +1,35 @@
+[33mcommit deecd5311657298ea31ac113d47c7e262147c274[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rida Fatima <syedaridafatima67@gmail.com>
+Date:   Wed May 31 19:41:23 2023 +0500
+
+    add necessary css-tailwind
+
+[33mcommit 33101b24f86a7384eea0ef0e2942598030384d62[m
+Author: Rida Fatima <syedaridafatima67@gmail.com>
+Date:   Wed May 31 19:39:29 2023 +0500
+
+    add button options
+
+[33mcommit b162593f6aa93c5aaf12dddf598ed179fe94f8d6[m
+Author: Rida Fatima <syedaridafatima67@gmail.com>
+Date:   Wed May 31 17:35:19 2023 +0500
+
+    add classnames
+
+[33mcommit 68f6d70d0e232b92cccb2bcb554e6bdfe9f4fb33[m
+Author: Rida Fatima <syedaridafatima67@gmail.com>
+Date:   Wed May 31 16:22:20 2023 +0500
+
+    add prop-types
+
+[33mcommit 2ead699e2158e1f3c72040a6781c9d0c8a8451fc[m
+Author: Rida Fatima <syedaridafatima67@gmail.com>
+Date:   Wed May 31 15:27:06 2023 +0500
+
+    Add buttom component
+
+[33mcommit 4cafbac32defdf67d2bbbdfd8a4879be7cf22a3f[m
+Author: Rida Fatima <syedaridafatima67@gmail.com>
+Date:   Wed May 31 14:15:44 2023 +0500
+
+    My First Commit
